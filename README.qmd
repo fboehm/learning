@@ -1,0 +1,10 @@
+---
+format: gfm
+---
+
+- [ ] consider reading (and critiquing) Xiao-Li Meng's draft book chapter: Perfecting MCMC Sampling: Recipes and Reservations (it's in my zotero library)
+
+> This paper is intended for the Handbook of Markov chain Monte Carlo’s 2nd edition. The authors will be grateful for any suggestions that could perfect it.
+
+
+
