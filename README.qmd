@@ -6,5 +6,12 @@ format: gfm
 
 > This paper is intended for the Handbook of Markov chain Monte Carlo’s 2nd edition. The authors will be grateful for any suggestions that could perfect it.
 
+## knowledge graphs (with Son & Duy)
+
+Hi guys... See below for the two courses on KG (we took the first one awhile back... but good to refresh our memory)
+- Knowledge Graphs for RAG - DeepLearning.AI  https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/
+- AI Agents in LangGraph - DeepLearning.AI  https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/
+
+
 
 
